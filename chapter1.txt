@@ -1,0 +1,12 @@
+ls -a (also include include hidden list of files in directory, pronounce as list flag a)
+
+working directory--->(using git add) staging area---->(using git commit) Local Repository-->git checkout (rollback to last version)
+
+Git Commands-
+
+1) git init
+2) git status
+3) git add _filename or git add .(. used for all files )
+4) git commit -m " "(give message to version )
+
+
