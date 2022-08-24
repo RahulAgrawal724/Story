@@ -8,5 +8,5 @@ Git Commands-
 2) git status
 3) git add _filename or git add .(. used for all files )
 4) git commit -m " "(give message to version )
-
-
+5) git log ( to check commit message,hash)
+6) git checkout
